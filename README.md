@@ -1,5 +1,5 @@
 
-# Project and Payment Management Dashboard
+# Freelancer Project Management System
 
 This is a full-stack application for managing projects and payments. The project includes:
 - **Backend:** A RESTful API built with Node.js, Express.js, and MongoDB.
